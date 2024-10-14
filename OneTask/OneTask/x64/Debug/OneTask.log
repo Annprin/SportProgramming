@@ -1,0 +1,9 @@
+﻿  OneTask.cpp
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\OneTask\OneTask\OneTask.cpp(3,17): error C2760: синтаксическая ошибка: непредвиденный элемент "<". Ожидается "код выражения"
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\OneTask\OneTask\OneTask.cpp(3,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\OneTask\OneTask\OneTask.cpp(3,18): error C2365: std: переопределение; предыдущим определением было "пространство имен"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+   см. объявление "std"
+  
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\OneTask\OneTask\OneTask.cpp(3,21): error C2059: синтаксическая ошибка: >
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\OneTask\OneTask\OneTask.cpp(8,5): error C2065: cin: необъявленный идентификатор

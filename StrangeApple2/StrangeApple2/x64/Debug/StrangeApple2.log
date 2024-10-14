@@ -1,0 +1,8 @@
+﻿  StrangeApple2.cpp
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\StrangeApple2\StrangeApple2\StrangeApple2.cpp(34,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\StrangeApple2\StrangeApple2\StrangeApple2.cpp(55,9): error C2374: len: переопределение; множественная инициализация
+  C:\Users\KORCH\projects\Спортивное программирование\контест_1\StrangeApple2\StrangeApple2\StrangeApple2.cpp(34,9):
+   см. объявление "len"
+  
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\StrangeApple2\StrangeApple2\StrangeApple2.cpp(76,11): error C2065: remember: необъявленный идентификатор
+C:\Users\KORCH\projects\Спортивное программирование\контест_1\StrangeApple2\StrangeApple2\StrangeApple2.cpp(78,17): error C2065: remember: необъявленный идентификатор
